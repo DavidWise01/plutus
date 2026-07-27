@@ -1,9 +1,9 @@
 ROOT0-DLW-CHAIN-v1
 index : 1349
 slug  : plutus
-seal  : 9dcddff2b7a9f8318eed71d133b62b446773bab262f9684aad4064fcbcf12cb3
-prev  : 931fc4a1eb68e53ead09dc77aea68cdc580d41ec70f62328911fa79bbfa55063
-link  : 493e50fee09c7cbe9c6268f18e75205b644c20ee1a7d88863867eb7af21f7e05
-head  : 41f029ee4eaa0042c67040dc5927434f8e8446341839c86b6a09d79c5fbf30da
+seal  : a48adbf34ba3922bddb8aa574d5acc84a4b44d17288ee205a3bb6c1227d019f0
+prev  : 696720dc591884296ace6ef4e428bbd79946226ac2c61b0e4df7c7b8d49a17a4
+link  : 00ea71c772aff945c3db9dc4491764702e8f0eb15d35ef22cbcc4bfd87845442
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
